@@ -1,0 +1,47 @@
+body
+{
+    background: linear-gradient(45deg, rgb(239, 239, 239), rgb(68, 68, 68));
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    height: 70px;
+    margin-top: 0;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#button1
+{
+    height: 30px;
+    width: 100%;
+    background-color: yellowgreen;
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+canvas
+{
+    width: 100px;
+    height: -100%;
+    margin-left: -5%;
+    border: 5px solid antiquewhite;
+    margin-top: 30px;
+}
+
+#Status
+{
+    float: right;
+    margin-right: 4%;
+    width: 280px;
+}
+
+#Status
+{
+    color: black;
+    font-weight: bold;
+}
